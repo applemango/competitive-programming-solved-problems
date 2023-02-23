@@ -5,6 +5,8 @@
  * Testset1: AC * 10
  * Testset2: AC * 6, WA * 4
  * Testset3: AC * 29, WA * 21
+ * 
+ * https://atcoder.jp/contests/practice/tasks/practice_2
  */
 
 #include <iostream>
