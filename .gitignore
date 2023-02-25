@@ -1,2 +1,4 @@
 *.exe
 _*.cpp
+docs/
+templates/
