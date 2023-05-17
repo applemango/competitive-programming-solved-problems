@@ -1,3 +1,8 @@
+/*
+ * All: AC * 15
+ *
+ * https://atcoder.jp/contests/abc301/tasks/abc301_a
+ */
 #include <iostream>
 
 using namespace std;
